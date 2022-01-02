@@ -1,2 +1,1 @@
-# Project 1 - Mindfullnes and Spirituality
- 
+# Project-portfolio-1
